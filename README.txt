@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Recent registered user dashboard ===
 Contributors: codecandies
 Donate link: http://couchblog.de
 Tags: users, registrations, database
@@ -33,4 +33,7 @@ Small counter plugin, that shows new registered users for a given date or days s
 
 = 0.4 =
 * fix bug where widget initially show all users
+
+= 0.5 =
+* harmonize versions, plugin name and url of plugin
 

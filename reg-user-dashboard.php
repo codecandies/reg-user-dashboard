@@ -8,15 +8,15 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link              http://couchblog.de
+ * @link              https://github.com/codecandies/reg-user-dashboard
  * @since             0.1
  * @package           Reg_User_Dashboard
  *
  * @wordpress-plugin
- * Plugin Name:       Registered Users Dashboard
- * Plugin URI:        http://couchblog.de/plugins/reg-user-dashboard
+ * Plugin Name:       Recent registered user dashboard
+ * Plugin URI:        https://github.com/codecandies/reg-user-dashboard
  * Description:       Show a count of newly registered users since a date in a dashboard widget
- * Version:           0.4
+ * Version:           0.5
  * Author:            Nico Brünjes
  * Author URI:        http://couchblog.de
  * License:           GPL-2.0+
